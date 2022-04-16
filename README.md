@@ -93,7 +93,7 @@ python3 main.py
 
 ### Extra Variables
 
-* `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/README.md#custom_caption'>fillings</a> for formatting (only for documents)
+* `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/CodeXBotz/Gdott001/GDOTT-File-Sharing-Bot/blob/main/README.md#custom_caption'>fillings</a> for formatting (only for documents)
 * `DISABLE_CHANNEL_BUTTON` Put True to Disable Channel Share Button, Default if False
 
 ### Fillings
